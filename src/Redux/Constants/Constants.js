@@ -1,0 +1,12 @@
+//FILE CONSTANT
+export const ADD_FILE = 'ADD_FILE';
+export const SET_FILE_ERROR = 'SET_FILE_ERROR';
+
+//DATA CONSTANT
+export const ADD_DATA = 'ADD_DATA';
+
+//HEADINGS CONSTANT
+export const ADD_HEADINGS = 'ADD_HEADINGS';
+
+//RESULT CONSTANT
+export const ADD_RESULTS = 'ADD_RESULTS';
